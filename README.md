@@ -1,4 +1,4 @@
-%md
+
 # San Francisco Fire Calls ETL and Analysis
 
 #### SUMMARY
